@@ -1,0 +1,8 @@
+C:\Users\Arlington\Desktop\MATRIZ\bin\Debug\MATRIZ.exe.config
+C:\Users\Arlington\Desktop\MATRIZ\bin\Debug\MATRIZ.exe
+C:\Users\Arlington\Desktop\MATRIZ\bin\Debug\MATRIZ.pdb
+C:\Users\Arlington\Desktop\MATRIZ\obj\Debug\MATRIZ.csproj.AssemblyReference.cache
+C:\Users\Arlington\Desktop\MATRIZ\obj\Debug\MATRIZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arlington\Desktop\MATRIZ\obj\Debug\MATRIZ.csproj.CoreCompileInputs.cache
+C:\Users\Arlington\Desktop\MATRIZ\obj\Debug\MATRIZ.exe
+C:\Users\Arlington\Desktop\MATRIZ\obj\Debug\MATRIZ.pdb
